@@ -17,8 +17,7 @@ A web platform for college students to practice interviews, book mock interview 
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/StudentInterviewHub.git
-
+https://github.com/PrakrutiTank/Student_Interview_Hub
 # Backend
 cd backend
 npm install
